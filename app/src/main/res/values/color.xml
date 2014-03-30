@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="background">#f80</color>
+  <color name="fullscreen_control_overlay_color">#66000000</color>
+</resources>
