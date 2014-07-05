@@ -14,7 +14,6 @@ import android.widget.ImageView;
 
 public class MainActivity extends Activity implements View.OnClickListener {
 
-  private ImageView imageView;
   private Animator mCurrentAnimator;
 
   private int mShortAnimationDuration;
